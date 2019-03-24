@@ -17,5 +17,11 @@
                 "path": "./themes/Noemi-color-theme.json"
             }
         ]
-    }
+    },
+    "author": { 
+        "name" : "Nina Stawski",
+        "email" : "me@ninastawski.com",
+        "url" : "http://ninastawski.com"
+    },
+    "license": "MIT"
 }
