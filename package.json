@@ -1,0 +1,21 @@
+{
+    "name": "noemi",
+    "displayName": "Noemi",
+    "description": "Nice light theme originally for TextMate",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noemi",
+                "uiTheme": "vs",
+                "path": "./themes/Noemi-color-theme.json"
+            }
+        ]
+    }
+}
