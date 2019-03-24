@@ -1,29 +1,34 @@
 {
-    "name": "noemi",
-    "displayName": "Noemi",
-    "description": "Nice light theme originally for TextMate",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.32.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Noemi",
-                "uiTheme": "vs",
-                "path": "./themes/Noemi-color-theme.json"
-            }
-        ]
-    },
-    "author": { 
-        "name" : "Nina Stawski",
-        "email" : "me@ninastawski.com",
-        "url" : "http://ninastawski.com"
-    },
-    "publisher": "noemi",
-    "repository": "https://github.com/nstawski/noemi-vs-theme",
-    "license": "MIT"
+	"name": "noemi",
+	"displayName": "Noemi",
+	"description": "Nice light theme originally for TextMate",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.32.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noemi",
+				"uiTheme": "vs",
+				"path": "./themes/Noemi-color-theme.json"
+			}
+		]
+	},
+	"author": {
+		"name": "Nina Stawski",
+		"email": "me@ninastawski.com",
+		"url": "http://ninastawski.com"
+	},
+	"publisher": "noemi",
+	"repository": "https://github.com/nstawski/noemi-vs-theme",
+	"license": "MIT",
+	"__metadata": {
+		"id": "429ad62e-e5da-4b83-b704-29a601771643",
+		"publisherDisplayName": "Nina Stawski",
+		"publisherId": "70018cb6-ee0d-41ae-a4ee-04d782e2dc3a"
+	}
 }
