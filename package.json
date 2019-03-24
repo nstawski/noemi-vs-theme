@@ -24,5 +24,6 @@
         "url" : "http://ninastawski.com"
     },
     "publisher": "noemi",
+    "repository": "https://github.com/nstawski/noemi-vs-theme",
     "license": "MIT"
 }
