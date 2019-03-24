@@ -10,12 +10,12 @@ Works well with Seti (Visual Studio Code) icon theme.
 
 ### JavaScript / React:
 
-![How JS / React looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/blob/master/img/js_react.png)
+![How JS / React looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/master/img/js_react.png)
 
 ### CSS:
 
-![How CSS looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/blob/master/img/css.png)
+![How CSS looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/master/img/css.png)
 
 ### JSON:
 
-![How JSON looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/blob/master/img/json.png)
+![How JSON looks](https://raw.githubusercontent.com/nstawski/noemi-vs-theme/master/img/json.png)
