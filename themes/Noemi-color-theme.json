@@ -361,6 +361,16 @@
 				"fontStyle": "",
 				"foreground": "#929292"
 			}
+		},
+		{
+			"name": "This keyword",
+			"scope": [
+				"variable.language.this"
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#368494"
+			}
 		}
 	],
 	"colors": {
